@@ -1,6 +1,6 @@
 #debemos ignorar la carpeta __pycache__/
 __pycache__/
 #todos los archivos .txt
-.txt
+*.txt
 #todos los archivos .pdf
-.pdf
+*.pdf
